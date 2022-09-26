@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "458506831840",
+    "project_id": "blackownedbiz-dcd83",
+    "storage_bucket": "blackownedbiz-dcd83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458506831840:android:f66333611cf5bb09f84d85",
+        "android_client_info": {
+          "package_name": "com.blackowned"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458506831840-v4i8p95mpip2k57526uehlseeq4120gs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blackowned",
+            "certificate_hash": "6856b567faea1d216ee9963bf34573ca6dc819e9"
+          }
+        },
+        {
+          "client_id": "458506831840-vvnmc9ajvnihsfdcovs2g0n3pc4q1mvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blackowned",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "458506831840-ivaat4ukd8upq2lbq139obs6mqg1qqn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEHBqN6ffnUo30Zs5CYfOM-AWrRRcKgh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458506831840-ivaat4ukd8upq2lbq139obs6mqg1qqn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

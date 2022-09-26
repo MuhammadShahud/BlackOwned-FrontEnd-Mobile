@@ -1,0 +1,8 @@
+keytool -list -v -keystore C:\Users\admin\Documents\Projects\blackownRENEW\blackOwned-Frontend-Mobile\android\app\my-upload-key.keystore -alias my-key-alias -storepass 123456 -keypass 123456 
+
+
+
+
+      
+keytool -exportcert -alias androiddebugkey -keystore C:\Users\admin\Documents\Projects\blackownRENEW\blackOwned-Frontend-Mobile\android\app\my-upload-key.keystore | C:\Users\admin\Downloads\openssl-0.9.8k_WIN32\bin\openssl.exe sha1 -binary | C:\Users\admin\Downloads\openssl-0.9.8k_WIN32\bin\openssl.exe base64
+      
